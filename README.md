@@ -1,5 +1,5 @@
 # Burger builder
- -it is a simple burger builder app 
+ - it is a simple burger builder app 
   This app is still under Construction
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
