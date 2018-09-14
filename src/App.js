@@ -1,4 +1,4 @@
-// checked 127
+// checked 128
 import React, { Component } from 'react';
 import './index.css';
 import Layout from './components/layout/layout.js'
@@ -14,5 +14,4 @@ class App extends Component {
     );
   }
 }
-
 export default App
