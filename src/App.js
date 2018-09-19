@@ -1,17 +1,18 @@
-// checked 128
 import React, { Component } from 'react';
-import './index.css';
-import Layout from './components/layout/layout.js'
-import BurgerBuilder from './container/BurgerBuilder/BurgerBuilder'
+
+import Layout from './components/Layout/Layout';
+import BurgerBuilder from './containers/BurgerBuilder/BurgerBuilder';
+
 class App extends Component {
-  render() {
+  render () {
     return (
       <div>
         <Layout>
-         <BurgerBuilder></BurgerBuilder>
+          <BurgerBuilder />
         </Layout>
       </div>
     );
   }
 }
-export default App
+
+export default App;
