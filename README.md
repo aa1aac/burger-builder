@@ -1,3 +1,5 @@
+This project can only work smoothly when it has backend support (rest API)
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
